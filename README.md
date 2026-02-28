@@ -33,16 +33,9 @@ Sou o Luan Menezes, tenho 21 anos e sou estudante de Ciência e Tecnologia na UF
 
 ---
 
----
-
-### 📊 Estatísticas e Contribuições
+### 📊 Estatísticas
 
 <p align="left">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Luanbrx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanbrx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luanbrx&theme=tokyonight" alt="GitHub Streak" />
 </p>
