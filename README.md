@@ -1,7 +1,7 @@
 # 🧑🏼‍💻 Luan Menezes
-**`Back-End Developer | NestJS · Spring Boot · Node.js`**
+**`Full-Stack Developer | React · Spring Boot · Node.js`**
 
-Sou o Luan Menezes, tenho 21 anos e sou estudante de Ciência e Tecnologia na UFBA. Minha paixão por tecnologia nasceu do interesse por jogos e inovação, transformando-se no desejo de construir uma carreira na área. Hoje, meu foco é back-end — construindo APIs escaláveis, seguras e bem arquitetadas — mas acredito que um bom desenvolvedor entende o fluxo completo, do banco de dados à interface.
+Sou estudante de Ciência e Tecnologia na UFBA e **Desenvolvedor Full Stack**, com foco principal no **Back-End**, mas com flexibilidade e experiência para atuar no Front-End. Gosto de construir APIs robustas e escaláveis, prezando sempre por código limpo e boa arquitetura.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luan-menezes-santos" target="_blank">
